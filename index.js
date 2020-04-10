@@ -8,3 +8,7 @@ let random = Math.random()
 
 let mod = 16 % 6
 
+let max = Math.max(1, 20, 10, 5)
+
+
+
